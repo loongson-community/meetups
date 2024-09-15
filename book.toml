@@ -1,0 +1,6 @@
+[book]
+authors = ["xen0n"]
+language = "cmn"
+multilingual = false
+src = "src"
+title = "龙友会：非官方线下 LoongArch 技术交流之实时指南"
