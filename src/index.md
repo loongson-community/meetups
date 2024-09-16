@@ -11,3 +11,15 @@
 
 本站是“活的文档”（living document），所有内容均可能得到实时更新。请善用
 Git 的提交历史（commit history）功能来快速了解本站动态。
+
+## 开源许可
+
+版权所有 &copy; 本项目的贡献者们。所有权利保留。
+
+本项目的所有内容以以下两种许可证之一许可使用：
+
+* [CC-BY-SA 4.0 署名-相同方式共享 4.0 协议 国际版][CC-BY-SA-4.0]
+* [木兰开放作品许可协议 署名-相同方式共享，第 1 版][MulanOWL-BY-SA-1.0]
+
+[CC-BY-SA-4.0]: https://creativecommons.org/licenses/by-sa/4.0/
+[MulanOWL-BY-SA-1.0]: https://license.coscl.org.cn/MulanOWLBYSAv1
